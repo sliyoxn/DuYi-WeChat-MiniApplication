@@ -5,6 +5,8 @@
   background-color: #ddd;
 }
 
+
+
 .view{
   height: 100rpx;
   width: 100rpx;
